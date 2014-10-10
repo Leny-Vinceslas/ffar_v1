@@ -1,0 +1,14 @@
+code sampa
+2 2
+9 9
+A a
+an A~
+e e
+ei E
+en E~
+i i
+o o
+on O~
+oo O
+u u
+y y

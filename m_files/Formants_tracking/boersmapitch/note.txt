@@ -1,0 +1,4 @@
+FormantMeasurer: Software for efficient human-supervised
+measurement of format trajectories
+© 2008 Geoffrey Stewart Morrison & Terrance M. Nearey
+Available from http://geoff-morrison.net

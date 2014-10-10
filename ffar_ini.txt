@@ -1,0 +1,4 @@
+Default Sound Location: 	vowels
+Code to sampa file Path:	\code2sampa.txt
+male reference formant values (default):	\fr male reference values.txt
+female reference formant values (default):	\fr female reference values.txt

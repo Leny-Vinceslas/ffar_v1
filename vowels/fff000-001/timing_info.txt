@@ -1,0 +1,13 @@
+Display the content of the *info.txt file.
+Use it to save comments about the recordings or the analysis
+
+---------- example------------
+
+Session start time: 	10-Jul-2012 17:38:52
+
+Core Prompts
+start time: 	10-Jul-2012 17:38:52
+end time: 	10-Jul-2012 17:39:14
+duration: 	00:21
+Number of recordings at start: 	000
+Number of at end/quit (cumulative): 	003
